@@ -1,0 +1,3 @@
+[submodule "bambu_auto_download_timelapses/bambu_timelapse_downloader"]
+	path = bambu_auto_download_timelapses/bambu_timelapse_downloader
+	url = https://github.com/humzakh/bambu_timelapse_downloader.git
